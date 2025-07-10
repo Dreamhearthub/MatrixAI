@@ -43,7 +43,7 @@ NextGen is a comprehensive SaaS AI Platform with a modern tech stack including N
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/jeffjiang13/NextGen.git
+git clone https://github.com/Dreamhearthub/NextGen.git
 ```
 
 ### Installing Dependencies
